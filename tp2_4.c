@@ -15,6 +15,7 @@ int main()
     srand(time(NULL));
     char tipos[6][10] = {"Intel", "AMD", "Celeron", "Athlon", "Core", "Pentium"};
     int velocidad, anio, cantNucleos, tipo;
+    compu compus[5];
     //velocidad
     velocidad = 1 + rand() % 3;
     anio = 2015 + rand() % 2024;
