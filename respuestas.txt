@@ -2,3 +2,7 @@
 ● ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
     No puedo ver el archivo tp2_1_2.c, 
     porque estoy parado en otra rama
+● En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+    El grafo cambió, ahora se hizo una bifurcacion, con el nombre de la rama creada
+● En VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+    Ahora la bifurcacion Opcion_2 se unió a la rama main
